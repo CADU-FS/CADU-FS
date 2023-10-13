@@ -1,16 +1,36 @@
 ## Boas vindas ao meu perfil 😀
 
+<!-- Cobrinha (começo) -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+<!-- Cobrinha (final) -->
 
+<!-- Letreiro (começo) -->
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&duration=4000&pause=1000&color=02F700&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+eu+sou+Carlos+Eduardo%2C;estudante+do+Ensino+M%C3%A9dio%2C;aprendiz+de+JavaScript." alt="Typing SVG" /></a>
+</p>
+<!-- Letreiro (final) -->
 
 <br>
 
-<!-- GITHUB STATUS -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CADU-FS&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CADU-FS&layout=compact&langs_count=10&theme=merko"/>
-
-  <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
-</div>
+<!-- Estatísticas (começo) -->
+<p align="center">
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="center">
+      <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=CADU-FS&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+      <br></br>
+      <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CADU-FS&theme=merko&hide_border=false" /> 
+    </td>
+    <td width="50%" align="center">
+      <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=CADU-FS&theme=merko&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+    </td>
+  </tr>
+</table>
+<!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
+<!-- Estatísticas (final) -->
 
 <br>
 
