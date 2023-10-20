@@ -1,4 +1,4 @@
-## Boas vindas ao meu perfil 😀
+## Olá, Devs do Mundo! 👋
 
 <!-- Cobrinha (começo) -->
 <div align="center">
@@ -13,7 +13,17 @@
 </p>
 <!-- Letreiro (final) -->
 
-<br>
+<!-- Descrição (começo) -->
++  🚀 Programador em constante evolução
++  💻 Apaixonado por JavaScript e Desenvolvimento Web
++  🤖 Fascinado por Inteligência Artificial e suas possibilidades
+
+Navegando pelas ondas da tecnologia, mergulhando em linhas de código, e criando soluções inovadoras. Minha jornada começou no mundo dos jogos, e agora estou aqui, explorando o vasto universo da programação.
+
+No meu repositório, você encontrará projetos e experimentos que refletem minha paixão pela criação.
+
+> Código, Café e Criatividade! ☕👨‍💻
+<!-- Descrição (final) -->
 
 <!-- Estatísticas (começo) -->
 <p align="center">
